@@ -1,0 +1,6 @@
+.gradle
+.idea
+BuddySandbox.iml
+build/
+gradle/
+settings.gradle
